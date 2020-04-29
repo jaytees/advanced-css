@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaytees/advanced-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaytees/advanced-css/issues"
+  },
+  "homepage": "https://github.com/jaytees/advanced-css#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
